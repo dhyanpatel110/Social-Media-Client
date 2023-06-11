@@ -1,14 +1,24 @@
-# Interface of Social Media
+# Interface of Social Media ![GitHub repo size](https://img.shields.io/github/repo-size/dhyanpatel110/Social-Media-Client)
+
+# Snapshot
 
 ![Interface of Social Media](SocialMedia.png)
 
-# Social Media React
+# Demo
 
-## Description
+[Social-Media - Live ◀️](https://social-media-dhyanpatel110.vercel.app/)
 
-Setup Procedure
 
 ## Project setup
+
+### Clone this repo
+
+```
+git clone https://github.com/dhyanpatel110/Social-Media-Client.git
+
+```
+
+### Install dependencies
 
 ```
 npm install
