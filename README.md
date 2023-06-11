@@ -1,4 +1,5 @@
-# Interface of Social Media ![GitHub repo size](https://img.shields.io/github/repo-size/dhyanpatel110/Social-Media-Client)
+# Social Media ![GitHub repo size](https://img.shields.io/github/repo-size/dhyanpatel110/Social-Media-Client)
+Social Media App Provide to Upload Blogs and like that blogs also. We can follow different people and chat with them.
 
 # Snapshot
 
