@@ -16,7 +16,6 @@ Social Media App Provide to Upload Blogs and like that blogs also. We can follow
 
 ```
 git clone https://github.com/dhyanpatel110/Social-Media-Client.git
-
 ```
 
 ### Install dependencies
